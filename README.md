@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ✏️ Read my blog on https://blog.lgf.im
+- ✏️ Read my blog on https://lgf.im
 - 📫 How to reach me: i@lgf.im
 
 ### Github stats
